@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35806.99 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PinSpoof", "PinSpoof\PinSpoof.csproj", "{D72B189E-42C0-47F8-B76D-AF5C2A423038}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D72B189E-42C0-47F8-B76D-AF5C2A423038}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D72B189E-42C0-47F8-B76D-AF5C2A423038}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D72B189E-42C0-47F8-B76D-AF5C2A423038}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D72B189E-42C0-47F8-B76D-AF5C2A423038}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A6E6A1D7-50D0-4006-A729-61A6E371A3AD}
+	EndGlobalSection
+EndGlobal
